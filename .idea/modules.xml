@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Core-java.iml" filepath="$PROJECT_DIR$/Core-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/constantVariableAndKeywords/constantVariableAndKeywords.iml" filepath="$PROJECT_DIR$/constantVariableAndKeywords/constantVariableAndKeywords.iml" />
     </modules>
   </component>
 </project>
